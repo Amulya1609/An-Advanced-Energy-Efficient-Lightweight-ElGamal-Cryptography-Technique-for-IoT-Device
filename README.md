@@ -1,0 +1,2 @@
+# An-Advanced-Energy-Efficient-Lightweight-ElGamal-Cryptography-Technique-for-IoT-Device
+This project aims to propose an improved energy-efficient lightweight cryptography technique for IoT devices. The ElGamal algorithm was utilized for generating public and private keys, input encryption, and decryption. The project also presents a comparison of the performance of ElGamal, RSA, and Paillier methods.
